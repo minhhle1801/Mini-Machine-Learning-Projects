@@ -1,1 +1,1 @@
-# Mini-Machine-Learning-Projects
+# Mini Machine Learning Weekly Projects
